@@ -3,6 +3,7 @@ package utils;
 import javax.crypto.Cipher;
 import java.security.PrivateKey;
 
+// Metodo feito para descriptografar o texto;
 public class decrypt {
     public static final String alg = "RSA";
 
